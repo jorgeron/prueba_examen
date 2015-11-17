@@ -1,1 +1,1 @@
-Este es un documento de prueba en la rama master.
+Este es un documento de prueba con conflictos solucionados.
